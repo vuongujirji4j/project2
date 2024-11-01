@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="724cb14f195b47a4832ad1ecff61f29a" Name="Diagram1">
+        <EntityTypeShape EntityType="phimmoiModel.COMMENTS" Width="1.5" PointX="5.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="phimmoiModel.FAVORITES" Width="1.5" PointX="5.25" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="phimmoiModel.KHACH_HANG" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="phimmoiModel.PHIM" Width="1.5" PointX="3" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="phimmoiModel.QUAN_TRI" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="phimmoiModel.FK__COMMENTS__MaKH__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="phimmoiModel.FK__COMMENTS__MaPhim__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="phimmoiModel.FK__FAVORITES__MaKH__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="phimmoiModel.FK__FAVORITES__MaPhi__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="phimmoiModel.FK__PHIM__MaKH__46E78A0C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

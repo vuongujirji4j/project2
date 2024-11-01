@@ -1,0 +1,57 @@
+﻿@model IEnumerable<K22cntt3_pvv_project2.Models.PHIM>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenPhim)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.The_loai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nam_sx)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Trang_thai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KHACH_HANG.Ho_ten)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenPhim)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.The_loai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nam_sx)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Trang_thai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KHACH_HANG.Ho_ten)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaPhim }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaPhim }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaPhim })
+        </td>
+    </tr>
+}
+
+</table>

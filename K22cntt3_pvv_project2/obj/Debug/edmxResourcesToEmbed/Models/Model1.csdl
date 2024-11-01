@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="phimmoiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="COMMENTS">
+    <Key>
+      <PropertyRef Name="CommentID" />
+    </Key>
+    <Property Name="CommentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaKH" Type="Int32" Nullable="false" />
+    <Property Name="MaPhim" Type="Int32" Nullable="false" />
+    <Property Name="CommentText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CommentDate" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="KHACH_HANG" Relationship="Self.FK__COMMENTS__MaKH__5070F446" FromRole="COMMENTS" ToRole="KHACH_HANG" />
+    <NavigationProperty Name="PHIM" Relationship="Self.FK__COMMENTS__MaPhim__5165187F" FromRole="COMMENTS" ToRole="PHIM" />
+  </EntityType>
+  <EntityType Name="FAVORITES">
+    <Key>
+      <PropertyRef Name="FavoriteID" />
+    </Key>
+    <Property Name="FavoriteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaKH" Type="Int32" Nullable="false" />
+    <Property Name="MaPhim" Type="Int32" Nullable="false" />
+    <Property Name="DateAdded" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="KHACH_HANG" Relationship="Self.FK__FAVORITES__MaKH__4BAC3F29" FromRole="FAVORITES" ToRole="KHACH_HANG" />
+    <NavigationProperty Name="PHIM" Relationship="Self.FK__FAVORITES__MaPhi__4CA06362" FromRole="FAVORITES" ToRole="PHIM" />
+  </EntityType>
+  <EntityType Name="KHACH_HANG">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ho_ten" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Tai_khoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mat_khau" Type="String" MaxLength="32" FixedLength="false" Unicode="false" />
+    <Property Name="Dia_chi" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="Dien_thoai" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Ngay_sinh" Type="DateTime" Precision="3" />
+    <Property Name="Gioi_tinh" Type="Byte" />
+    <Property Name="Trang_thai" Type="Byte" />
+    <NavigationProperty Name="COMMENTS" Relationship="Self.FK__COMMENTS__MaKH__5070F446" FromRole="KHACH_HANG" ToRole="COMMENTS" />
+    <NavigationProperty Name="FAVORITES" Relationship="Self.FK__FAVORITES__MaKH__4BAC3F29" FromRole="KHACH_HANG" ToRole="FAVORITES" />
+    <NavigationProperty Name="PHIM" Relationship="Self.FK__PHIM__MaKH__46E78A0C" FromRole="KHACH_HANG" ToRole="PHIM" />
+  </EntityType>
+  <EntityType Name="PHIM">
+    <Key>
+      <PropertyRef Name="MaPhim" />
+    </Key>
+    <Property Name="MaPhim" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaKH" Type="Int32" />
+    <Property Name="TenPhim" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="The_loai" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Nam_sx" Type="Int32" />
+    <Property Name="Trang_thai" Type="Byte" />
+    <NavigationProperty Name="COMMENTS" Relationship="Self.FK__COMMENTS__MaPhim__5165187F" FromRole="PHIM" ToRole="COMMENTS" />
+    <NavigationProperty Name="FAVORITES" Relationship="Self.FK__FAVORITES__MaPhi__4CA06362" FromRole="PHIM" ToRole="FAVORITES" />
+    <NavigationProperty Name="KHACH_HANG" Relationship="Self.FK__PHIM__MaKH__46E78A0C" FromRole="PHIM" ToRole="KHACH_HANG" />
+  </EntityType>
+  <EntityType Name="QUAN_TRI">
+    <Key>
+      <PropertyRef Name="Tai_khoan" />
+    </Key>
+    <Property Name="Tai_khoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Mat_khau" Type="String" MaxLength="32" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Trang_thai" Type="Byte" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__COMMENTS__MaKH__5070F446">
+    <End Role="KHACH_HANG" Type="Self.KHACH_HANG" Multiplicity="1" />
+    <End Role="COMMENTS" Type="Self.COMMENTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACH_HANG">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="COMMENTS">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMMENTS__MaPhim__5165187F">
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="1" />
+    <End Role="COMMENTS" Type="Self.COMMENTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIM">
+        <PropertyRef Name="MaPhim" />
+      </Principal>
+      <Dependent Role="COMMENTS">
+        <PropertyRef Name="MaPhim" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__FAVORITES__MaKH__4BAC3F29">
+    <End Role="KHACH_HANG" Type="Self.KHACH_HANG" Multiplicity="1" />
+    <End Role="FAVORITES" Type="Self.FAVORITES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACH_HANG">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="FAVORITES">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__FAVORITES__MaPhi__4CA06362">
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="1" />
+    <End Role="FAVORITES" Type="Self.FAVORITES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIM">
+        <PropertyRef Name="MaPhim" />
+      </Principal>
+      <Dependent Role="FAVORITES">
+        <PropertyRef Name="MaPhim" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PHIM__MaKH__46E78A0C">
+    <End Role="KHACH_HANG" Type="Self.KHACH_HANG" Multiplicity="0..1" />
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHACH_HANG">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="PHIM">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PVVEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="COMMENTS" EntityType="Self.COMMENTS" />
+    <EntitySet Name="FAVORITES" EntityType="Self.FAVORITES" />
+    <EntitySet Name="KHACH_HANG" EntityType="Self.KHACH_HANG" />
+    <EntitySet Name="PHIM" EntityType="Self.PHIM" />
+    <EntitySet Name="QUAN_TRI" EntityType="Self.QUAN_TRI" />
+    <AssociationSet Name="FK__COMMENTS__MaKH__5070F446" Association="Self.FK__COMMENTS__MaKH__5070F446">
+      <End Role="KHACH_HANG" EntitySet="KHACH_HANG" />
+      <End Role="COMMENTS" EntitySet="COMMENTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMMENTS__MaPhim__5165187F" Association="Self.FK__COMMENTS__MaPhim__5165187F">
+      <End Role="PHIM" EntitySet="PHIM" />
+      <End Role="COMMENTS" EntitySet="COMMENTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK__FAVORITES__MaKH__4BAC3F29" Association="Self.FK__FAVORITES__MaKH__4BAC3F29">
+      <End Role="KHACH_HANG" EntitySet="KHACH_HANG" />
+      <End Role="FAVORITES" EntitySet="FAVORITES" />
+    </AssociationSet>
+    <AssociationSet Name="FK__FAVORITES__MaPhi__4CA06362" Association="Self.FK__FAVORITES__MaPhi__4CA06362">
+      <End Role="PHIM" EntitySet="PHIM" />
+      <End Role="FAVORITES" EntitySet="FAVORITES" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PHIM__MaKH__46E78A0C" Association="Self.FK__PHIM__MaKH__46E78A0C">
+      <End Role="KHACH_HANG" EntitySet="KHACH_HANG" />
+      <End Role="PHIM" EntitySet="PHIM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

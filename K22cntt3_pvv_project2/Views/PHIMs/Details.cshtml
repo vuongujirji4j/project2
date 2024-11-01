@@ -1,0 +1,58 @@
+﻿@model K22cntt3_pvv_project2.Models.PHIM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PHIM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPhim)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenPhim)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.The_loai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.The_loai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nam_sx)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nam_sx)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Trang_thai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Trang_thai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KHACH_HANG.Ho_ten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KHACH_HANG.Ho_ten)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaPhim }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
