@@ -74,6 +74,11 @@ namespace K22cntt3_pvv_project2.Controllers
                 return HttpNotFound();
             }
             ViewBag.MaKH = new SelectList(db.KHACH_HANG, "MaKH", "Ho_ten", pHIM.MaKH);
+            ViewBag.TrangThaiList = new SelectList(new[]
+{
+        new { Value = 1, Text = "Hoạt động" },
+        new { Value = 0, Text = "Không hoạt động" }
+    }, "Value", "Text", pHIM.Trang_thai);
             return View(pHIM);
         }
 

@@ -71,9 +71,9 @@
             @Html.DisplayFor(modelItem => item.Trang_thai)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.MaKH }) |
-            @Html.ActionLink("Details", "Details", new { id=item.MaKH }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.MaKH })
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaKH }, new { @class = "btn btn-success" }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaKH }, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaKH }, new { @class = "btn btn-danger" })
         </td>
     </tr>
 }

@@ -1,0 +1,27 @@
+﻿@model K22cntt3_pvv_project2.Models.LoginModel
+
+<h2>Đăng nhập</h2>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
+@using (Html.BeginForm("Index", "Login", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tai_khoan)
+        @Html.TextBoxFor(m => m.Tai_khoan, new { @class = "form-control", placeholder = "Tên đăng nhập" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Mat_khau)
+        @Html.PasswordFor(m => m.Mat_khau, new { @class = "form-control", placeholder = "Mật khẩu" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Đăng nhập</button>
+}
+
+<p>
+    <a href="#">Quên mật khẩu?</a>
+</p>

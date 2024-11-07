@@ -133,6 +133,7 @@
     <Compile Include="Controllers\FAVORITESController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\KHACH_HANGController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\PHIMsController.cs" />
     <Compile Include="Controllers\QUAN_TRIController.cs" />
     <Compile Include="Global.asax.cs">
@@ -147,6 +148,7 @@
     <Compile Include="Models\KHACH_HANG.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\LoginModel.cs" />
     <Compile Include="Models\Model1.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -263,6 +265,7 @@
     <Content Include="Views\FAVORITES\Details.cshtml" />
     <Content Include="Views\FAVORITES\Edit.cshtml" />
     <Content Include="Views\FAVORITES\Index.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

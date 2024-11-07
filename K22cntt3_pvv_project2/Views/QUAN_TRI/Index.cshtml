@@ -12,6 +12,9 @@
 <table class="table">
     <tr>
         <th>
+            @Html.DisplayNameFor(model => model.Tai_khoan)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.Mat_khau)
         </th>
         <th>
@@ -22,6 +25,9 @@
 
 @foreach (var item in Model) {
     <tr>
+        <th>
+            @Html.DisplayFor(model => item.Tai_khoan)
+        </th>
         <td>
             @Html.DisplayFor(modelItem => item.Mat_khau)
         </td>
@@ -29,9 +35,9 @@
             @Html.DisplayFor(modelItem => item.Trang_thai)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Tai_khoan }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Tai_khoan }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Tai_khoan })
+            @Html.ActionLink("Edit", "Edit", new { id = item.Tai_khoan }, new { @class = "btn btn-success" }) |
+            @Html.ActionLink("Details", "Details", new { id = item.Tai_khoan }, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Tai_khoan }, new { @class = "btn btn-danger" })
         </td>
     </tr>
 }

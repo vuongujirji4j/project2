@@ -35,9 +35,9 @@
             @Html.DisplayFor(modelItem => item.PHIM.TenPhim)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.FavoriteID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.FavoriteID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.FavoriteID })
+            @Html.ActionLink("Edit", "Edit", new { id=item.FavoriteID }, new { @class = "btn btn-success" }) |
+            @Html.ActionLink("Details", "Details", new { id=item.FavoriteID }, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.FavoriteID }, new { @class = "btn btn-danger" })
         </td>
     </tr>
 }

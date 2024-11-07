@@ -65,12 +65,21 @@ namespace K22cntt3_pvv_project2.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            KHACH_HANG kHACH_HANG = db.KHACH_HANG.Find(id);
-            if (kHACH_HANG == null)
+
+            var customer = db.KHACH_HANG.Find(id);
+            if (customer == null)
             {
                 return HttpNotFound();
             }
-            return View(kHACH_HANG);
+
+            // Gán các trạng thái vào ViewBag dưới dạng số 1 và 0
+            ViewBag.TrangThaiList = new SelectList(new[]
+            {
+        new { Value = 1, Text = "Hoạt động" },
+        new { Value = 0, Text = "Không hoạt động" }
+    }, "Value", "Text", customer.Trang_thai);
+
+            return View(customer);
         }
 
         // POST: KHACH_HANG/Edit/5
