@@ -1,0 +1,18 @@
+﻿@model K22cntt3_pvv_project2.Models.LoginModel
+
+
+<h2>Đăng Nhập</h2>
+@using (Html.BeginForm("Index", "QUAN_TRI", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.Tai_khoan)
+        @Html.TextBoxFor(m => m.Tai_khoan, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Tai_khoan)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Mat_khau)
+        @Html.PasswordFor(m => m.Mat_khau, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Mat_khau)
+    </div>
+    <button type="submit" class="btn btn-primary">Đăng Nhập</button>
+}

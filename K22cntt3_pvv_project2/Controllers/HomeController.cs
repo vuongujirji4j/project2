@@ -9,10 +9,10 @@ namespace K22cntt3_pvv_project2.Controllers
 
     public class HomeController : Controller
     {
-        //public ActionResult Index()
-        //{
-        //    return View();
-        //}
+        public ActionResult Index()
+        {
+            return View();
+        }
 
         public ActionResult About()
         {
@@ -27,14 +27,14 @@ namespace K22cntt3_pvv_project2.Controllers
 
             return View();
         }
-        public ActionResult Index()
-        {
-            if (Session["Tai_khoan"] == null)
-            {
-                return RedirectToAction("Index", "Login");
-            }
-            return View();
-        }
+        //public ActionResult Index()
+        //{
+        //    if (Session["Tai_khoan"] == null)
+        //    {
+        //        return RedirectToAction("Index", "Login");
+        //    }
+        //    return View();
+        //}
 
     }
 }

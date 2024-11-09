@@ -3,52 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\favorites\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\favorites\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\quan_tri\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\khach_hang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\khach_hang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\areas\\adminpvv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\areas\\adminpvv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\areas\\adminpvv\\controllers\\pvvcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\areas\\adminpvv\\controllers\\pvvcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\areas\\adminpvv\\views\\pvvcomments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\areas\\adminpvv\\views\\pvvcomments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\areas\\adminpvv\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\areas\\adminpvv\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\areas\\adminpvv\\adminpvvarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\areas\\adminpvv\\adminpvvarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\areas\\adminpvv\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\areas\\adminpvv\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\quan_tri\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\phims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\phims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|c:\\users\\zenbook\\source\\repos\\k22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\phimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\quan_tri\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,24 +103,32 @@
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\khach_hang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\khach_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\favorites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\favorites\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\favorites\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\phims\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\khach_hang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\khach_hang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\quan_tricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -87,16 +139,8 @@
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\quan_tri\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -105,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\quan_tri\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\quan_tri\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -139,22 +179,6 @@
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\k22cntt3_pvv_project2\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10DE493E-2A8B-4EF9-94AB-DAD661F70D52}|K22cntt3_pvv_project2\\K22cntt3_pvv_project2.csproj|solutionrelative:k22cntt3_pvv_project2\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -166,63 +190,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:24:17.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:27:03.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:26:17.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:02:16.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:17:51.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:04:38.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QUAN_TRIController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:04:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\LoginModel.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:35:31.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Edit.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Edit.cshtml",
               "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Edit.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T09:04:12.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Login.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Login.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:17:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:46:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T08:05:39.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PVVCOMMENTSController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\PVVCOMMENTSController.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\PVVCOMMENTSController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\PVVCOMMENTSController.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Controllers\\PVVCOMMENTSController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:01:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\PVVCOMMENTS\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\PVVCOMMENTS\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\PVVCOMMENTS\\Edit.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\PVVCOMMENTS\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:48:36.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPvvAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\AdminPvvAreaRegistration.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\AdminPvvAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\AdminPvvAreaRegistration.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\AdminPvvAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:57:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Areas\\AdminPvv\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T08:06:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Web.config",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Web.config",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Web.config",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-07T06:49:51.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Register.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Register.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T13:21:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\_ViewStart.cshtml",
@@ -235,33 +402,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGIAAABvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T08:05:39.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAABpAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T08:12:09.777Z",
+              "WhenOpened": "2024-11-02T07:00:15.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
+              "Title": "PHIMsController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:04:01.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T07:24:37.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T07:00:41.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\Register.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:06:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\PHIMs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:26:17.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:06:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:27:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:25:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:04:26.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Edit.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Edit.cshtml",
@@ -269,25 +535,47 @@
               "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Edit.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:04:34.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T09:04:34.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml*",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Edit.cshtml*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABLAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:04:26.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T08:12:09.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
+              "Title": "KHACH_HANGController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:03:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
+              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T06:24:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Edit.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\PHIMs\\Edit.cshtml",
@@ -295,51 +583,11 @@
               "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\PHIMs\\Edit.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:04:01.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T09:04:01.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T06:17:51.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PHIMsController.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\PHIMsController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAwFAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:04:01.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "KHACH_HANGController.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\KHACH_HANGController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAuwE8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:03:29.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Create.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Create.cshtml",
@@ -351,19 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T06:25:32.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "Web.Release.config",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Web.Release.config",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Web.Release.config",
@@ -375,44 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Web.config",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Web.config",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Web.config",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Web.config",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-07T06:49:51.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:42:24.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "QUAN_TRIController.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Controllers\\QUAN_TRIController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:04:29.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Web.Debug.config",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Web.Debug.config",
@@ -424,31 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T06:57:07.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\LoginModel.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:35:31.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Edit.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Edit.cshtml",
@@ -460,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Create.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\PHIMs\\Create.cshtml",
@@ -472,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "COMMENTSController.cs",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\COMMENTSController.cs",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\COMMENTSController.cs",
@@ -484,19 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:06:19.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Delete.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\QUAN_TRI\\Delete.cshtml",
@@ -508,19 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T07:00:15.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Create.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Create.cshtml",
@@ -532,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Create.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Create.cshtml",
@@ -544,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\PHIMs\\Delete.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\PHIMs\\Delete.cshtml",
@@ -556,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Delete.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\KHACH_HANG\\Delete.cshtml",
@@ -568,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\FAVORITES\\Delete.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\FAVORITES\\Delete.cshtml",
@@ -580,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\COMMENTS\\Delete.cshtml",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\COMMENTS\\Delete.cshtml",
@@ -592,54 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T07:24:37.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T07:00:41.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T12:46:22.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\Model1.edmx",
-              "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Models\\Model1.edmx",
-              "ToolTip": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Models\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "K22cntt3_pvv_project2\\Models\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-10-31T08:01:42.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "FAVORITESController.cs",
               "DocumentMoniker": "C:\\Users\\ZenBook\\source\\repos\\K22cntt3_pvv_project2\\K22cntt3_pvv_project2\\Controllers\\FAVORITESController.cs",
               "RelativeDocumentMoniker": "K22cntt3_pvv_project2\\Controllers\\FAVORITESController.cs",

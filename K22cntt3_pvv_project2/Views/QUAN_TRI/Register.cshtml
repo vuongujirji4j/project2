@@ -1,0 +1,25 @@
+﻿@model K22cntt3_pvv_project2.Models.Register
+
+
+
+<h2>Đăng Ký</h2>
+@using (Html.BeginForm("Register", "QUAN_TRI", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(m => m.Tai_khoan)
+        @Html.TextBoxFor(m => m.Tai_khoan, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Tai_khoan)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Mat_khau)
+        @Html.PasswordFor(m => m.Mat_khau, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Mat_khau)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.ConfirmMat_khau)
+        @Html.PasswordFor(m => m.ConfirmMat_khau, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ConfirmMat_khau)
+    </div>
+    <button type="submit" class="btn btn-primary">Đăng Ký</button>
+}
+
